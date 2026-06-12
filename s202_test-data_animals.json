@@ -34,4 +34,9 @@
        "type": "Mammal",
        "habitat": "Africa"
      }
+  {
+    "name": "Penguin",
+    "type": "Bird",
+    "habitat": "Antarctica"
+  }
 ]
