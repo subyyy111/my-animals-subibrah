@@ -29,4 +29,9 @@
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
   }
+  {
+       "name": "Elephant",
+       "type": "Mammal",
+       "habitat": "Africa"
+     }
 ]
